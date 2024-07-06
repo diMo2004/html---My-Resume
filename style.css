@@ -1,0 +1,51 @@
+.dm-serif-display-regular {
+    font-family: "DM Serif Display", serif;
+    font-size: x-large;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sawarabi-mincho-regular {
+    font-family: "Sawarabi Mincho", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+}
+
+.nav-pills
+{
+    --bs-nav-pills-link-active-bg: rgb(41, 34, 34);
+}
+
+.nav
+{
+    --bs-nav-link-color: rgb(24, 20, 20);
+    --bs-nav-link-hover-color: rgb(31, 24, 24);
+}
+
+.d1
+{
+    text-align: justify;
+    font-size: larger;
+}
+
+bold
+{
+    font-weight: bold;
+}
+
+.bull
+{
+    list-style-type: none;
+}
+
+.ico
+{
+    height: 25px;
+    width: 25px;
+}
+
+body
+{
+    background-color: rgb(109, 155, 177);
+}
